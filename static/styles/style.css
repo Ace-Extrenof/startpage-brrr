@@ -3,10 +3,10 @@
     --secondary-background-color: #44475A;
     --tertiary-background-color: #1E1F29;
     --primary-foreground-color: #F8F8F2;
-    --secondary-foreground-color: #BD93F9;
+    --secondary-foreground-color: rgb(184, 187, 38);
     --tertiary-foreground-color: #757b99;
     --normal-shadow: #00000040;
-    --selected-shadow: #BD93F940;
+    --selected-shadow: rgb(184, 187, 38);
 }
 
 @font-face {
