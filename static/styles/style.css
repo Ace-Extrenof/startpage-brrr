@@ -25,6 +25,8 @@ body {
     background: var(--primary-background-color);
     background-color: var(--primary-background-color);
     color: -var(--primary-foreground-color);
+    margin: -19px 0 0 0; /*-19px here to remove white space on the very top of the page*/
+    width: 100%;
     font-family: Font;
     font-size: 18px;
     display: flex;
