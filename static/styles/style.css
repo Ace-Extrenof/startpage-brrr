@@ -1,12 +1,12 @@
 :root {
-    --primary-background-color: #282828;
-    --secondary-background-color: #282828;
-    --tertiary-background-color: #282828;
+    --primary-background-color: #1d2021;
+    --secondary-background-color: #32302f;
+    --tertiary-background-color: #1d2021;
     --primary-foreground-color: #F8F8F2;
     --secondary-foreground-color: rgb(184, 187, 38);
     --tertiary-foreground-color: #757b99;
     --normal-shadow: #00000040;
-    --selected-shadow: rgb(184, 187, 38);
+    --selected-shadow: #BD93F940
 }
 
 @font-face {
