@@ -160,11 +160,6 @@ input:focus {
         height: auto;
     }
 
-    img:hover {
-        width: 28vw;
-        height: auto;
-    }
-
 }
 
 @media (max-width: 1000px) {
