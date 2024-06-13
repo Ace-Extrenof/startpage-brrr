@@ -167,7 +167,7 @@ input:focus {
     }
 
     img:hover {
-        width: 28vw;
+        width: 600px;
         height: auto;
     }
 
@@ -177,6 +177,4 @@ input:focus {
     img {
         display: none;
     }
-}
-}
 }
