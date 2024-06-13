@@ -42,10 +42,6 @@ img {
     transition: width 0.3s ease, height 0.3s ease, box-shadow 0.3s ease;
 }
 
-img:hover {
-    box-shadow: 54px 54px 55px rgba(184, 187, 38, 0.5);
-}
-
 nav {
     display: grid;
     grid-row-gap: 1em;
